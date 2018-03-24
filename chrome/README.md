@@ -1,7 +1,3 @@
-# Amazon Share-A-Cart
+# Green Shopping
 
-Amazon Share-A-Cart is an extension for Google Chrome that allows you to share the contents of your Amazon.com cart with anyone else.
-
-## Code license
-
-Mozilla Public License Version 2.0
+Green Shopping is an extension for Google Chrome that allows you to be a more environmentally conscious shopper.
